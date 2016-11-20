@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "rxjs": "5.0.0-rc.1"
+  },
+  "engines": {
+    "node": ">=4.3.2 <=4.6.2"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "demo": "node demo.js"
+  }
+}
