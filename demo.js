@@ -1,7 +1,7 @@
 'use strict';
 
 const Socket = require('net').Socket;
-const NUM_CLIENTS = 500;
+const NUM_CLIENTS = 4000;
 const SERVER = {
   host: 'localhost',
   port: '8080'
